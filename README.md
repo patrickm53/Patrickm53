@@ -1,5 +1,5 @@
 <h3 align="left">
- Welcome to Patrick McEnaney's profile!
+ Welcome to My Profile!
   
 </h3>
 <p align="left">
